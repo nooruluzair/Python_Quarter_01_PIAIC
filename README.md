@@ -1,6 +1,6 @@
 # Pyton-with-Colab
 
-# Noor ul Ain - Certified Agentic, and Robotic AI Engineer - Batch68
+# Certified Agentic, and Robotic AI Engineer - Batch68 - Quarter 01
 This repository contains all the coding exercises, assignments, and projects completed in Quarter 01.
 
 # How to Use
@@ -8,7 +8,7 @@ This repository contains all the coding exercises, assignments, and projects com
 Use the following command to clone the repository to your local machine:
 
 ```
-git clone https://github.com/usmanashrf/batch68-modern-ai-python.git
+git clone https://github.com/nooruluzair/Pyton-with-Colab
 ```
 **Navigate Folders:** 
 Browse through the folders to find relevant code and resources.
