@@ -1,7 +1,6 @@
-# Pyton-with-Colab
-
-# Certified Agentic, and Robotic AI Engineer - Batch68 - Quarter 01
-This repository contains all the coding exercises, assignments, and projects completed in Quarter 01.
+# Python Language - Quarter 01
+# Course: Certified Agentic, and Robotic AI Engineer - Batch68 - PIAIC
+This repository contains all the coding exercises, assignments, and projects completed in Quarter 01. I am using Google Colab and Visual Studio as IDE.
 
 # How to Use
 **Clone the Repository:** 
